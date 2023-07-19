@@ -1,6 +1,3 @@
 Hello Sabari
-<<<<<<< HEAD
 Hello Safna
-=======
 Hello abhiram
->>>>>>> 2cfff82901afb69ffbe7d4941c0dcc9133f40161
